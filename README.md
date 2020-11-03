@@ -4,7 +4,7 @@ Consider the following problem that you have just solved:
 
 The joint probability density function for the pair of continuous random variables (X,Y) is:
 
-![](https://render.githubusercontent.com/render/math?math=f(x,y)=k(x^2y^2%2Bxy^3)\quad\textrm{if}\quad\1<x<2\quad\textrm{and}\quad\0<y<3)
+![](https://render.githubusercontent.com/render/math?math=f(x,y)=k(x^2y^2%2Bxy^3)\quad\textrm{for}\quad\1<x<2\quad\textrm{and}\quad\0<y<3)
 
 (1) Show that this is a valid probability density function by taking suitable partial derivatives of ![](https://render.githubusercontent.com/render/math?math=f(x,y))
 etc.
