@@ -12,9 +12,9 @@ dfdy =
 print("The partial derivative of the pdf with respect to y is",dfdy ) 
 # You need to add a sympy command after the comma here to calculate the second partial derivative of 
 # the pdf with respect to x then y
-d2dxdy = 
+d2fdxdy = 
 print("d^2 f / dxdy =", d2dxdy )
 # You need to add a sympy command after the comma here to calculate the second partial derivative of 
 # the pdf with respect to y then x
-d2dydx = 
+d2fdydx = 
 print("d^2 f / dydx =", d2dydx )
